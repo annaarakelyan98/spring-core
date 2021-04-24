@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <context:property-placeholder location="classpath:musicPlayer.properties"/>
+
+    <!--scope prototype creates another object-->
+    <bean id="musicBean"
+          class="com.dependency_injection.RockMusic"
+          scope="prototype">
+    </bean>
+
+    <!--scope prototype creates the same object-->
+    <bean id="musicBean1"
+          class="com.dependency_injection.ClassicalMusic"
+          scope="singleton">
+    </bean>
+
+    <!--dependency injection by constructor-->
+    <bean id="constructorMusic"
+          class="com.dependency_injection.MusicPlayer">
+        <constructor-arg ref="musicBean"/>
+    </bean>
+
+    <!-- dependency injection by setter, reference-->
+    <bean id="setMusicRef" class="com.dependency_injection.MusicPlayer">
+        <property name="music" ref="musicBean1"/>
+    </bean>
+
+    <!-- dependency injection by setter, by hand-->
+    <bean id="setMusicHand" class="com.dependency_injection.MusicPlayer">
+        <property name="name" value="Cool"/>
+        <property name="volume" value="70"/>
+    </bean>
+
+    <!-- dependency injection by setter, by hand-->
+    <bean id="setMusicProperties" class="com.dependency_injection.MusicPlayer">
+        <property name="name" value="${musicPlayer.name}"/>
+        <property name="volume" value="${musicPlayer.volume}"/>
+    </bean>
+</beans>
