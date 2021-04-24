@@ -15,7 +15,7 @@
           scope="prototype">
     </bean>
 
-    <!--scope prototype creates the same object-->
+    <!--scope singleton creates the same object-->
     <bean id="musicBean1"
           class="com.dependency_injection.ClassicalMusic"
           scope="singleton">

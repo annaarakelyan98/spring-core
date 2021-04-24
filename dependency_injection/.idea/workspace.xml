@@ -8,7 +8,20 @@
       <change afterPath="$PROJECT_DIR$/../../database" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../design-patterns" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../java-core" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scope_methods/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scope_methods/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scope_methods/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scope_methods/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scope_methods/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scope_methods/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scope_methods/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scope_methods/scope_methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scope_methods/src/main/java/com/beans_lifecycle/Basketball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scope_methods/src/main/java/com/beans_lifecycle/Football.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scope_methods/src/main/java/com/beans_lifecycle/PlayGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scope_methods/src/main/java/com/beans_lifecycle/Sport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scope_methods/src/main/java/com/beans_lifecycle/SpringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scope_methods/src/main/resources/applicationContext.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../users-project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../json/src/main/java/com/car_project/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../json/src/main/java/com/car_project/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../json/src/main/java/com/car_project/json_file/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../json/src/main/java/com/car_project/json_file/Reader.java" afterDir="false" />
@@ -18,8 +31,7 @@
       <change beforePath="$PROJECT_DIR$/../../json/target/classes/com/car_project/json_file/Reader.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../json/target/classes/com/car_project/json_file/ReaderImpl.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../json/target/classes/com/car_project/json_file/WriterImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IoC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IoC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
     </list>
@@ -37,7 +49,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1rZMaOywrvn87a0d42ifLI3jEf2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -91,7 +103,7 @@
       <workItem from="1619179223386" duration="10224000" />
       <workItem from="1619203466015" duration="423000" />
       <workItem from="1619258479761" duration="463000" />
-      <workItem from="1619263498248" duration="726000" />
+      <workItem from="1619263498248" duration="3359000" />
     </task>
     <servers />
   </component>
