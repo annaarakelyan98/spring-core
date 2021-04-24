@@ -15,9 +15,6 @@ public class Football implements Sport {
         System.out.println("Doing my destruction");
     }
 
-
-
-
     @Override
     public String sportType() {
         return "Football";
