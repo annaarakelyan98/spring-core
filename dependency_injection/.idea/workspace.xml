@@ -8,20 +8,21 @@
       <change afterPath="$PROJECT_DIR$/../../database" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../design-patterns" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../java-core" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scope_methods/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scope_methods/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scope_methods/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scope_methods/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scope_methods/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scope_methods/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scope_methods/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scope_methods/scope_methods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scope_methods/src/main/java/com/beans_lifecycle/Basketball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scope_methods/src/main/java/com/beans_lifecycle/Football.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scope_methods/src/main/java/com/beans_lifecycle/PlayGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scope_methods/src/main/java/com/beans_lifecycle/Sport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scope_methods/src/main/java/com/beans_lifecycle/SpringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scope_methods/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotations/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotations/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotations/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotations/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotations/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotations/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotations/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotations/annotations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotations/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotations/src/main/java/com/annotations/autowired/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotations/src/main/java/com/annotations/autowired/AnimalType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotations/src/main/java/com/annotations/autowired/Hen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotations/src/main/java/com/annotations/autowired/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotations/src/main/java/com/annotations/autowired/SpringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotations/src/main/resources/applicationContext.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../users-project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../json/src/main/java/com/car_project/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../json/src/main/java/com/car_project/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../json/src/main/java/com/car_project/json_file/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../json/src/main/java/com/car_project/json_file/Reader.java" afterDir="false" />
@@ -31,9 +32,8 @@
       <change beforePath="$PROJECT_DIR$/../../json/target/classes/com/car_project/json_file/Reader.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../json/target/classes/com/car_project/json_file/ReaderImpl.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../json/target/classes/com/car_project/json_file/WriterImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scope_methods/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scope_methods/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +104,7 @@
       <workItem from="1619203466015" duration="423000" />
       <workItem from="1619258479761" duration="463000" />
       <workItem from="1619263498248" duration="3359000" />
+      <workItem from="1619294145662" duration="607000" />
     </task>
     <servers />
   </component>
